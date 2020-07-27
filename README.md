@@ -5,7 +5,7 @@
 - :seedling: I’m currently learning stuff like [Docker](https://alertbox.github.io/docsify-served/), [Microservices](), and non-techy stuff like [Fiction Writing]()
 - :beers: I’m looking to collaborate on [Inner Sourcing]() and Technology Upgrades/Migrations
 - :thinking: I’m looking for help with _Industry Practices on Product Engineering_ for [slasscom/bootcamp-curriculum](https://github.com/SLASSCOM/slasscom-bootcamp-curriculum)
-- :nerd: I'm a huge GitHub nerd!
+- :neckbeard: I'm a huge GitHub nerd!
 - :green_book: I used to blog nearly a decade ago at <https://kosalanuwan.tumblr.com/>
 - :books: I like reading on [Audible]() and it's awesome, plus
 - :clapper: I like making [Playlists on YouTube]()
