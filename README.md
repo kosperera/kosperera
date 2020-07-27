@@ -9,7 +9,7 @@
 - :green_book: I used to blog nearly a decade ago at <https://kosalanuwan.tumblr.com/>
 - :books: I like reading on [Audible]() and it's awesome, plus
 - :clapper: I like making [Playlists on YouTube]()
-- :speech_balloon: [Ask me anything!](https://github.com/kosalanuwan/ama/) about [.NET](), [Javascript](), [GitHub](), and all things OSS, Clean Code and Clean Architecture, _BUT NOT_ Java or Machine Learning
-- :call_me_hand: How to reach me: [linkedin/kosalanuwan](https://www.linkedin.com/in/kosalanuwan/)
+- :speech_balloon: Ask me anything about [.NET](), [Javascript](), [GitHub](), and all things OSS, Clean Code and Clean Architecture, _BUT NOT Java or Machine Learning_
+- :call_me_hand: How to reach me: [via LinkedIn](https://www.linkedin.com/in/kosalanuwan/), or [via Twitter](https://twitter.com/kosalanuwan), or [Ask me anything on GitHub](https://github.com/kosalanuwan/ama/)
 - :grin: Pronouns: KP/He/Him/His
 - :zap: Fun fact: All things [behind Movies and TV Series]() from SyFy to Biography
