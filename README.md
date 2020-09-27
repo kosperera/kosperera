@@ -1,6 +1,7 @@
 ### Hello :vulcan_salute:
 
-- :mask: It's actually me [(@kosalanuwan)](https://twitter.com/kosalanuwan/)
+:mask: It's actually me [(@kosalanuwan)](https://twitter.com/kosalanuwan/). I interact with GitHub daily, [so why not use it for everything else](https://kosalanuwan.github.io/bliki/etc/personal-productivity/). I’m that nerd :nerd_face:! GitHub used to be my unicorn, and now it is my bitch, with :heart: of course.
+
 - :telescope: I’m currently working on stuff like [.NET Core]() Migrations, [GitHub Pages](https://kosalanuwan.github.io/bookworm/) and [Azure Static Web Apps]() amongst other 20+ projects
 - :seedling: I’m currently learning stuff like [Docker](https://alertbox.github.io/docsify-served/), [Microservices](), and non-techy stuff like [Fiction Writing]()
 - :beers: I’m looking to collaborate on [Inner Sourcing]() and Technology Upgrades/Migrations
