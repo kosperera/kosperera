@@ -1,8 +1,8 @@
-<a href="https://therealkosala.github.io">
+<a href="https://kosperera.github.io">
   <img
     alt="Product/Platform Engineer. JavaScript C# Serverless. Developer Advocate. Long-term Hubber."
-    src="https://raw.githubusercontent.com/therealkosala/therealkosala/main/GitHubCover.jpeg"
+    src="https://raw.githubusercontent.com/kosperera/kosperera/main/GitHubCover.png"
   />
 </a>
 
-[Learn more about me](https://therealkosala.github.io)
+[Learn more about @KosPerera](https://kosperera.github.io)
