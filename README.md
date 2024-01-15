@@ -5,4 +5,4 @@
   />
 </a>
 
-[Learn more about @KosPerera](https://kosperera.github.io)
+[Learn more about me](https://kosperera.github.io)
