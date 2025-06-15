@@ -1,7 +1,8 @@
 <a href="https://kosperera.github.io">
   <img
-    alt="Product/Platform Engineer. JavaScript C# Serverless. Developer Advocate. Long-term Hubber."
+    alt="Architect - Technology @Virtusa. Programmer. C# Quarkus Terraform. Azure AWS Serverless. Long-term Hubber."
     src="https://raw.githubusercontent.com/kosperera/kosperera/main/GitHubCover.png"
+    width="100%"
   />
 </a>
 
